@@ -60,7 +60,7 @@ img{
 }
 
 
-core{
+dl{
     grid-column: 2/3;
     grid-row: 3/5;
     background-color: burlywood;
